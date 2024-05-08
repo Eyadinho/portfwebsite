@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Eyadinho/portfwebsite.git/static/css/main.7cfd8b47.css",
+    "main.js": "/Eyadinho/portfwebsite.git/static/js/main.3f9bbb15.js",
+    "static/media/python.png": "/Eyadinho/portfwebsite.git/static/media/python.82efb64f8698a267f8bf.png",
+    "static/media/sql.png": "/Eyadinho/portfwebsite.git/static/media/sql.85fb38d6773862e917f4.png",
+    "static/media/INFA.png": "/Eyadinho/portfwebsite.git/static/media/INFA.8a804197e85e0ce98059.png",
+    "static/media/stone.png": "/Eyadinho/portfwebsite.git/static/media/stone.2a6976a9158328008dbb.png",
+    "static/media/react.png": "/Eyadinho/portfwebsite.git/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/Eyadinho/portfwebsite.git/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/github.png": "/Eyadinho/portfwebsite.git/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Eyadinho/portfwebsite.git/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Eyadinho/portfwebsite.git/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/neo4j.png": "/Eyadinho/portfwebsite.git/static/media/neo4j.e1e0f30a4b1da0310ff7.png",
+    "static/media/javascript.png": "/Eyadinho/portfwebsite.git/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Eyadinho/portfwebsite.git/index.html",
+    "main.7cfd8b47.css.map": "/Eyadinho/portfwebsite.git/static/css/main.7cfd8b47.css.map",
+    "main.3f9bbb15.js.map": "/Eyadinho/portfwebsite.git/static/js/main.3f9bbb15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cfd8b47.css",
+    "static/js/main.3f9bbb15.js"
+  ]
+}
