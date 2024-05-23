@@ -10,7 +10,16 @@
   }
   li {
     @apply px-4;
-    @apply cursor-pointer
-}
+    @apply cursor-pointer;
+  }
 }
 
+.content-div {
+  position: relative;
+  width: 100%; /* Full width */
+  height: 400px; /* Adjust the height as needed */
+}
+
+.group-hover .opacity-0 {
+  opacity: 1;
+}

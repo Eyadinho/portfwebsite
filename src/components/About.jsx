@@ -7,7 +7,7 @@ const About = () => {
         <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
           <div className="sm:text-right pb-8 pl-4">
             <p className="text-4xl font-bold inline border-b-4 border-pink-600">
-              About
+              About Me
             </p>
           </div>
           <div></div>
@@ -15,17 +15,15 @@ const About = () => {
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
             <p>
-              Hi. I'm Eyad, thank you for checking out my portofolio. Please
-              take a look around.
+              
             </p>
           </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
+            My passion for computers and software drives my belief that these technologies will become indispensable in the future. 
+        As we advance, digital solutions will integrate into every aspect of our lives, transforming how we work, communicate, and solve problems. 
+        I envision a world where traditional tools like pen and paper become obsolete, replaced by innovative technologies that enhance our capabilities and connect us in ways we never imagined.
+         My goal is to be at the forefront of this digital revolution, contributing to the development and implementation of software that shapes the future.
             </p>
           </div>
         </div>
